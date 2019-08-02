@@ -16,8 +16,6 @@ class Aucor_Content_Freeze {
     require_once 'features/admin/admin-settings.php';
     require_once 'features/admin/admin-notice.php';
   }
-
-  // @TODO notification
 }
 /**
  * Init plugin
